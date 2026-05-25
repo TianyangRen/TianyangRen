@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tianyang-ren-a57bb3384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -36,12 +36,9 @@ I care about clean architecture, fast feedback loops, and tools that make develo
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[ChefClaude](#)** | AI recipe assistant that turns your fridge into a meal plan | React, Anthropic API, Mistral |
 | **[CanLifeHub](#)** | Full-stack community platform for newcomers to Canada | Next.js, PostgreSQL, Node |
 | **[Stay Goldie](#)** | Pet boarding marketplace with bookings and host profiles | Next.js, PostgreSQL, Prisma |
-| **[Minibash](#)** | Unix shell built in C — process control, pipes, signals | C, Unix syscalls |
 | **[Western Legends Helper](#)** | Companion app for the board game, deployed on Cloudflare | React, Cloudflare Pages |
-| **[Hybrid SQL+Vector Optimizer](#)** | Research on query planning across relational + ANN search | Python, FAISS, SQL |
 
 ---
 
