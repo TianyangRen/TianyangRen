@@ -114,15 +114,6 @@ Collaborative project — contributed to the frontend and 3D interaction layer.
 
 ---
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TianyangRen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianyangRen&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ### 📫 Let's talk
 
 I'm actively looking for **Software Developer Co-op / Internship roles starting September 2026** — open to roles in Canada or remote.
