@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Master of Applied Computing @ <b>University of Windsor</b> &nbsp;·&nbsp; 🇨🇦 Based in Windsor, Ontario
+  Master of Applied Computing @ <b>University of Windsor</b> &nbsp;·&nbsp; 🇨🇦 Based in Windsor, Ontario
 </p>
 
 <p align="center">
