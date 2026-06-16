@@ -50,7 +50,7 @@ AI / Tools │  Anthropic API · Mistral · FAISS · Cursor · Claude Code
 <tr>
 <td width="50%" valign="top">
 
-#### 🐾 [Stay Goldie 2.0](https://github.com/TianyangRen/Stay_Goldie2.0)
+####  [Stay Goldie 2.0](https://github.com/TianyangRen/Stay_Goldie2.0)
 **[🌐 Live demo →](https://stay-goldie2-0.vercel.app)**
 
 A fully responsive pet boarding & e-commerce platform. Handles **date-conflict booking logic**, an integrated pet supply store, and a personalized daily photo feed so dog owners stay connected with their pets.
@@ -62,7 +62,7 @@ Built on **Next.js App Router + Supabase**, with Postgres functions (PLpgSQL) en
 </td>
 <td width="50%" valign="top">
 
-#### 🖥️ [Mini-Bash](https://github.com/TianyangRen/Mini-Bash)
+####  [Mini-Bash](https://github.com/TianyangRen/Mini-Bash)
 
 A **client–server command system in C**, written with raw Unix sockets. A primary server (`w26server`) handles incoming client requests, while `mirror1` and `mirror2` act as load-distributing replicas.
 
@@ -75,7 +75,7 @@ Forks, signal handling, IPC — the gritty Unix systems work, no libraries doing
 <tr>
 <td width="50%" valign="top">
 
-#### 🪥 [Toothbrush Analyzer](https://github.com/TianyangRen/Toothbrush-Analyzer)
+####  [Toothbrush Analyzer](https://github.com/TianyangRen/Toothbrush-Analyzer)
 
 Full-stack product search engine that puts **classical algorithms inside a real app**:
 
@@ -91,7 +91,7 @@ Spring Boot backend, React frontend.
 </td>
 <td width="50%" valign="top">
 
-#### 🏠 [Smart House — 3D Digital Twin](https://github.com/jianglei919/smart_house)
+####  [Smart House — 3D Digital Twin](https://github.com/jianglei919/smart_house)
 
 A browser-based **3D digital twin** of a smart home. Users can navigate the house in a Three.js scene and inspect device state in real time.
 
